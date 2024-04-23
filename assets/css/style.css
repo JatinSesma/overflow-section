@@ -115,8 +115,7 @@
 }
 
 .box1:hover .yellowcircle {
-    background: linear-gradient(90deg, #FFA800 0%, #F06500 100%);;
-    border: 2px solid white;
+    background: linear-gradient(90deg, #FFA800 0%, #F06500 100%);
 }
 
 
@@ -179,12 +178,11 @@
     left: 13px;
     border-radius: 46px;
     position: relative;
-    background: linear-gradient(90deg, #FFA800 0%, #F06500 100%);
+    background: white;
 }
 
 .box2:hover .whitecircle {
-    background: white;
-    border: 2px solid #FFA800;
+    background: linear-gradient(90deg, #FFA800 0%, #F06500 100%);
 }
 
 .two {
